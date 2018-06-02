@@ -8,3 +8,4 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) { object[k
 return object;
 }
 
+function 
