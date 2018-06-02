@@ -9,5 +9,11 @@ return object;
 }
 
 function deleteFromObjectByKey(object, key) {
+  var clone = Object.assign({}, key)
+  delete clone
+  return Object
+}
+
+function destructivelyDeleteFromObjectByKey(object, key) {
   return delete object.key
 }
