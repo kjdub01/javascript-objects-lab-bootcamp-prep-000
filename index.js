@@ -1,1 +1,1 @@
-var recipies = {foo: 'bar'}
+var recipies = {};
